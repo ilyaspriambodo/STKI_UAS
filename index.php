@@ -33,9 +33,9 @@ Dokument Tema Game Mobile AOV<br><br></h2>
 <a href="searchjaccard1.php">Jaccard1</a> |
 <a href="searchjaccard2.php">Jaccard2</a> |
 <a href="searchjaccard3.php">Jaccard3</a> |
-<a href="searchsdice1.php">Dice1</a> |
-<a href="searchsdice2.php">Dice2</a> |
-<a href="searchsdice3.php">Dice3</a> |
+<a href="searchdice1.php">Dice1</a> |
+<a href="searchdice2.php">Dice2</a> |
+<a href="searchdice3.php">Dice3</a> |
 </div>
 <hr/>
 </body>
